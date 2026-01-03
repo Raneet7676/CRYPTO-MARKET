@@ -1,13 +1,14 @@
-import './App.css'
+import React from "react";
 
-function App() {
+const App = () => {
 
-
-  return (
+  return(
     <>
-     helow
+      <div className="app">
+
+      </div>
     </>
   )
 }
 
-export default App
+export default App;
